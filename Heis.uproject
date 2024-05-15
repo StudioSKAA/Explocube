@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.2",
+	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -29,7 +29,9 @@
 			"SupportedTargetPlatforms": [
 				"IOS",
 				"Win64",
-				"Mac"
+				"Mac",
+				"Linux",
+				"Android"
 			]
 		},
 		{

@@ -75,3 +75,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 Heis.uproject
 Heis.uproject
+Config/DefaultEngine.ini
